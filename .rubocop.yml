@@ -262,8 +262,6 @@ Style/WhileUntilModifier:
 # [MUST] Do not put whitespace between a method name and parenthesis.
 
 # [SHOULD] Omit `{ }` of a hash literal, when put on the end of an argument list.
-Style/BracesAroundHashParameters:
-  EnforcedStyle: no_braces
 
 # [MUST] Use `do`/`end` form for blocks of method calls where the return value of the block is unused. i.e. blocks executed for side-effects
 
